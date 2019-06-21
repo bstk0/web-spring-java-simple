@@ -21,14 +21,12 @@ public class ProdutoDAO {
 	}
 
 	public void gravar(Produto produto) {
-		System.out.println("ProdutoDAO.gravar");
-
-		FirebaseDatabase database = FirebaseDatabase.getInstance();
-		DatabaseReference ref = database.getReference("alura-spring");
-		DatabaseReference usersRef = ref.child("produtos");
-
-		usersRef.child(produto.getTitulo()).setValue(produto);
-	}
+        System.out.println("ProdutoDAO.gravar [2]");
+        FirebaseDatabase database = FirebaseDatabase.getInstance();
+        DatabaseReference ref = database.getReference("alura-spring");
+        DatabaseReference usersRef = ref.child("produtos");
+        usersRef.child(produto.getTitulo()).setValue((Object)produto);
+    }
 
 	public List<Produto> listar() {
 		List<Produto> listProd = new ArrayList();

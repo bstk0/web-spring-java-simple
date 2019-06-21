@@ -10,13 +10,15 @@
   <body> <h1>Casa do código</h1> 
     <table>
         <tr>
+            <td>ID</td>
             <td>Título</td>
             <td>Descrição</td>
             <td>Páginas</td>
         </tr>
 
-        <c:forEach items="${produtos}" var="produto">
+        <c:forEach items="${produtos}" var="produto" varStatus="theCount">
             <tr>
+                <td>${theCount.index}</td> 
                 <td>${produto.titulo}</td>
                 <td>${produto.descricao}</td>
                 <td>${produto.paginas}</td>
