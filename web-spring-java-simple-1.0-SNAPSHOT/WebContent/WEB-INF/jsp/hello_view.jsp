@@ -5,7 +5,7 @@
       <form method="post" action="hello">
         <input type=text size="15" name="user" >
         <input type=submit name="submit" value="Ok">
-        <a href="/">Voltar</a>
+        <a href="../spring/">Voltar</a>
       </form>
     </div>
     <div>

@@ -9,9 +9,9 @@
 <body>
  <h1>Produto cadastrado com sucesso!</h1>
  <input type="submit" value="Go to List" 
-    onclick="window.location='/spring/produtos/';" />
+    onclick="window.location='../produtos';" />
     
-<a href="/spring/">
+<a href="../">
    <input type="button" value="Home" />
 </a>    
 </body>

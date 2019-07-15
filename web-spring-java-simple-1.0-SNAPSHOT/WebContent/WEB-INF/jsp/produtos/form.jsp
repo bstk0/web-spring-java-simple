@@ -7,11 +7,11 @@
     <meta charset="UTF-8"> 
   <title>Livros de java, Android, Iphone, PHP, Ruby e muito mais - Casa do código</title> 
 </head> 
-  <body> <h1>Casa do código [2]</h1> 
-  <form action="/spring/produtos" method="post">
+  <body> <h1>Casa do código [2]</h1>&nbsp;<a href="../">Voltar</a> 
+  <form action="../produtos/add" method="post">
     <div>
         <label>Título</label>
-        <input type="text" name="titulo" />
+        <input type="text" name="titulo" />(nao colocar ponto "." - campo chave no firebase)
     </div>
     <div>
         <label>Descrição</label>

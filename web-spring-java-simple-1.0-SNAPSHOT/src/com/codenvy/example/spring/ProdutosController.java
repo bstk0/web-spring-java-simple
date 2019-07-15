@@ -29,7 +29,8 @@ public class ProdutosController
     return modelAndView;
   }
   
-  @RequestMapping(value={"/produtos"}, method={org.springframework.web.bind.annotation.RequestMethod.POST})
+  //@RequestMapping(value={"/produtos"}, method={org.springframework.web.bind.annotation.RequestMethod.POST})
+  @RequestMapping(value={"/produtos/add"}, method={org.springframework.web.bind.annotation.RequestMethod.POST})
   public String gravar(Produto produto) throws FileNotFoundException {
     System.out.println(produto.toString());
     
