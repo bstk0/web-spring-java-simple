@@ -8,5 +8,11 @@
 </head>
 <body>
  <h1>Produto cadastrado com sucesso!</h1>
+ <input type="submit" value="Go to List" 
+    onclick="window.location='/spring/produtos/';" />
+    
+<a href="/spring/">
+   <input type="button" value="Home" />
+</a>    
 </body>
 </html>

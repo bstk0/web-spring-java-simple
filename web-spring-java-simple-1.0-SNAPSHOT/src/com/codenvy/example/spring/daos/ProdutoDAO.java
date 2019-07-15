@@ -29,7 +29,7 @@ public class ProdutoDAO {
     }
 
 	public List<Produto> listar() {
-		List<Produto> listProd = new ArrayList();
+		List<Produto> listProd = new ArrayList<Produto>();
 
 		FirebaseDatabase database = FirebaseDatabase.getInstance();
 		DatabaseReference ref = database.getReference("alura-spring/produtos");
