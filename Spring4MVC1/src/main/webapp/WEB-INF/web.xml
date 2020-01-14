@@ -6,6 +6,7 @@
  
  <display-name>Spring4MVC1</display-name>
  
+ <!-- 
  <servlet>
     <servlet-name>dispatcher</servlet-name>
     <servlet-class>
@@ -22,5 +23,5 @@
     <servlet-name>dispatcher</servlet-name>
     <url-pattern>/</url-pattern>
  </servlet-mapping>
- 
+  -->
 </web-app>
