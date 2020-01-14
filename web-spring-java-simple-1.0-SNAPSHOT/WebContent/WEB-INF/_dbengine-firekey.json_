@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "firebase-dbengine",
+  "private_key_id": "acdc27dd1a079404c8edfa2a06ac6ae4039eee33",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzeX2x6Cb39gFI\n+THhCLPiB6Rwu8m+yh919I/T1ylCHfG8bLaOZDvnhCX8DhTqTEt+DBB+dUsqrjWE\nCvXVwI+DVb7XyoLTLTFRV38oLyGg91OWLAAxmqDfG4LGA2SbkxIB3zdNb3Jl7GB5\nAItJ6aprC/o8kTe9ZC89eYp3WqrGMi7xOieJ9Ud9FSFc9i4m/cvU0JVj8Y5/M7tW\npB5LyO618YVl6r0wyz/rB2/RSJUDF7OMqRCA12sljLuR2TmnThWl4TmUfSupsrHh\nXadz9uUV02VV0zqSaVr8+RbDOuuTyI+xaJtt9F68Ba7YDiraB8aAPJZcJsig5YZk\nV4ZR643fAgMBAAECggEASWaPnJoYjeLDpcecua8oenGrtBtpKClb8o7h376odgzv\nF6PSiau+wDHQoyRTM3ueiF+Aw2dPJZZ39pfQ8Om/B/Sih3igRqO9/sltDM8xzrY4\nLjuynJbj4jtLIZazp9jfTXqwEHBa9gpVbkdlsAXrl7ofTnQJuuBlXZv+oE+pdkLS\nkIgKNI4yQNIVeFxxqfHsEVSL9f6uyhv/CR4qSlNzXC9xrRaAW0PanBkCjwqAV4SN\nqooAs4D6opOsfyYJKmxSxDblzY697ULzLpLxgtkTaXn8l/5IqoYrPys99Qb8g6Db\ng8B4owQ1AQkJiwfJ45j7LPlIgnw1CVmTW0YVRW05SQKBgQDX3uz+vrQri9kha0E3\n9qUORFERxs387VGsA6lJYliMpTLDYAacBvGfJb3GzQMIFiIPKvXKrV+EqZehWLPh\nSAjSsB4xlHfeLeBbVIyG7xfNtajlHGDRRAK2P1cpm2MqmTNg0ZjaLIwRFQBGHKGk\nKG0JkXe+lFT9dgAYNu6qwyykqwKBgQDU1oFb5/iKi3HAQLIk0tDk4lr1gaAbv6UO\nHp5OPFYIzbxrT/pU7twt6xXZMTp8kHUcOpT0fjVHk3qgiJF9duohzYHCJeU8Gbt3\n5dKzwJbc5eqyydorQQ8+MjgPXYfLukL5jcbUlRileR4pBAAGj6a6Fj1RFSYCx1kb\nfo1Y8zWznQKBgG3hZEMbMTyFN+XB4XWqD0Qe1CE3T7yx1AO57V6UN7yHjjpS06py\nAmVe4aWizys7kOSlmm0rKNavOKaBLza54vvTd9sG1qj6MxxqAgnhA/3KvQi6FDIQ\n60x3G1frZ2PUjYl3xtUvHbDIPtZxVnnntfDL4ebZPBW0DcJFm+DB7iR3AoGAZsHd\nmJrJc1JZrAFQQNkLg8YJNkjMHTmMneGIeqtEumFiG8l0Sfc8lGrQlJjg7OztraBW\n9CfO32zDoqfs3k9AQOuwPyT+pOKjkQKDlMdhzuquQn2T+JgjnNqwGDMG8gROe5/I\npDALwzBTsGe+/2vxihxcpD36qRLH4a9a3NwnTD0CgYBbYjPvZbmYZq00FiamA/hT\nMIHAcM81fbZluorMAiSxSjsGF/GAQ0PzZJnrG2LBf1N5gOL2M6yHH9+D9D2AZjaP\n2rEtNLehHxrLUobuLfcEJqK2yIKW4gQ8PZrF0Lrkf+Eaaonyo6XTsbAxQPsJDaZ2\nd/LnKB4Y258ISOHglaP9qQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "myapps@firebase-dbengine.iam.gserviceaccount.com",
+  "client_id": "105881276523265967336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myapps%40firebase-dbengine.iam.gserviceaccount.com"
+}

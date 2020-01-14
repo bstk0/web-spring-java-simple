@@ -23,6 +23,7 @@ public class ProdutosController
   @RequestMapping({"/produtos/form"})
   public ModelAndView form()
   {
+	System.out.println("ModelAndView ...");	  
     ModelAndView modelAndView = new ModelAndView("produtos/form");
     modelAndView.addObject("tipos", TipoPreco.values());
     System.out.println("TipoPreco:" + TipoPreco.values());
